@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					AB5028C21F105545003E55B2 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 5WMA9433ND;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5WMA9433ND;
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.deathwater.pokedex;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5WMA9433ND;
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.deathwater.pokedex;
